@@ -1,6 +1,6 @@
 # coding: utf8
 
-# @Author: 郭 璞
+# @Author: 
 # @File: MyZhiHuLogin.py                                                                 
 # @Time: 2017/4/8                                   
 # @Contact: 1064319632@qq.com
